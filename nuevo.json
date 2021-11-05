@@ -1,0 +1,37 @@
+[
+  {
+    "id": "21-0",
+    "name": "Estadistica",
+    "status": "Start",
+    "hors": [],
+    "alumnos": []
+  },
+  {
+    "id": "21-1",
+    "name": "Programacion",
+    "status": "Start",
+    "hors": [],
+    "alumnos": []
+  },
+  {
+    "id": "21-2",
+    "name": "Matematicas",
+    "status": "Start",
+    "hors": [],
+    "alumnos": []
+  },
+  {
+    "id": "21-3",
+    "name": "Ciencias",
+    "status": "Start",
+    "hors": [],
+    "alumnos": []
+  },
+  {
+    "id": "21-4",
+    "name": "Español",
+    "status": "Start",
+    "hors": [],
+    "alumnos": []
+  }
+]
